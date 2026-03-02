@@ -1,3 +1,3 @@
 # Alexander_vcc_2
 Assignment 2
-this is my first assignment
+this is my second assignment
